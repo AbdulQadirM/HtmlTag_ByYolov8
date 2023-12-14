@@ -1,7 +1,4 @@
-# Detect Html Tag by using Yolov8
-
-
-# YOLOv8 HTML Tag Detector
+## YOLOv8 HTML Tag Detector
 
 ## Overview
 
